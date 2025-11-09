@@ -57,7 +57,7 @@ const notification = new Audio(music);
             style={{
               height: "450px",
               overflowY: "auto",
-              border: "2px solid yellow",
+              border: "",
             }}
           >
             {messageList.map((data) => (
